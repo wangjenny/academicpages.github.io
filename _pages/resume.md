@@ -13,5 +13,5 @@ redirect_from:
 --->
 
 
-<object data="assets/JennyWangResume.pdf" width="1000" height="1000" type='application/pdf'/>
+<object data="wangjenny.github.io/assets/JennyWangResume.pdf" width="1000" height="1000" type='application/pdf'/>
 
