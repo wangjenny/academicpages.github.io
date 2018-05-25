@@ -7,8 +7,6 @@ redirect_from:
   - /resume
   - /cv
 ---
-
-# Would like to replace this with an external file 
 <!--- Testing Comments
 This was markdown format that was recommended to get HTML to be embedded in the page. 
    https://stackoverflow.com/questions/39777166/display-pdf-image-in-markdown
