@@ -22,8 +22,7 @@ This was markdown format that was recommended to get HTML to be embedded in the 
 </object>
 --->
 
-<iframe src="https://drive.google.com/open?id=1xicW0uIEk-Cz1Oz7P4xKlz7bHOWNoNXc" width="100%" height="100%"></iframe>
-
+<iframe src="https://drive.google.com/file/d/1xicW0uIEk-Cz1Oz7P4xKlz7bHOWNoNXc/preview" width="100%" height="100%"></iframe>
 
 <!---
 Education
