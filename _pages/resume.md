@@ -8,4 +8,10 @@ redirect_from:
   - /cv
 ---
 
-<iframe src="https://drive.google.com/file/d/1xicW0uIEk-Cz1Oz7P4xKlz7bHOWNoNXc/preview" width="100%" height="100%" ></iframe>
+<!--- 
+<iframe src="https://drive.google.com/file/d/1xicW0uIEk-Cz1Oz7P4xKlz7bHOWNoNXc/preview" width="100%" height="100%" ></iframe> 
+--->
+
+
+<object data="assets/JennyWangResume.pdf" width="1000" height="1000" type='application/pdf'/>
+
