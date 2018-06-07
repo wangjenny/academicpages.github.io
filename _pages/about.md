@@ -39,9 +39,18 @@ More About Me
 <!--- Others: Joyful, Good humored, leader, scholar, friendly--->
 
 #### What are my greatest weaknesses?
+* Reserved
+
+From experience I notice it takes time for me to get accustomed to new environments. I can come off as shy in the beginning, because I prefer develop an understanding of products and subject matter before I voice my opinions. 
+* Inexperience with large companies
+
+Having only worked in a sub-200 employee company, I do not have experience working on projects with large teams. Although by working in a smaller company, it has allowed me to step up for different responsibilities when additional help is needed and to work with people across multiple departments. 
+
+<!--- har har har
 * Mac and cheese (why can't I stop eating you)
 * Spring Pollen 
 * Identifying weaknesses
+--->
 
 #### What are some of my proudest accomplishments?
 Professionally, I am proud of how I've grown my project just myself to a team of four full time testers. The biggest challenge had to be switching my mindset from a follower to a leader. Given the opportunity, I choose to go above and beyond what was required. My predecssor set some basic responsbilities for the position. When I took over, I was able to build and expand upon those responsibilities which lead to sustained progress and doubling the bug resolution rate of my team. 
@@ -58,22 +67,24 @@ Outside of work, I am most proud of having attained my Scrum Master certificatio
 #### What do I like to do outside of work?
 I am a huge fan of reading. Can check out some of my technical (and non-technical) recommendations in the Books tab (Work In Progress)
 
+<!---
 #### If you were an animal which one would you be?
 A lot of people have commented that I remind them of a dog: strong, loyal, happy-go-lucky. I however just visited the Atlanta Aquarium and have to say my favorite animal on display was the egg yolk jellyfish. The serene nature of these gentle aquatic creatures resonated with me. Perhaps I was just hungry.
-<!--- would love to insert image of jellyfish here --->
+would love to insert image of jellyfish here 
+--->
 
 
-Things to do before this website is up and ready
+Things I'd like to add to this site
 ---
 - [x] Go through all the pages and get rid of tabs that are not relevant
 - [x] Update the about me page with personal type and picture
 - [x] Remove Dribble from contact me page
-- [ ] Upload resume online: see /resume/
-- [ ] Put personal projects online in portfolio
-- [x] Create first blog post -- in progress
+- [x] Upload resume online: see /resume/
+- [ ] Put personal projects online in portfolio -- in progress
+- [x] Create first blog post 
 - [ ] Upload background texture or theme
 - [x] Upload favicon 
-- [ ] Add Goodbooks widget
+- [ ] Add Goodbooks widget -- in progress
 - [ ] Add a comments section to every page
 - [ ] Find out how to integrate with a TODO list maker
 - [ ] Transform talkmap into a travel map
