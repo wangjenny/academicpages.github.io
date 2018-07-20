@@ -38,13 +38,12 @@ More About Me
 <!--- empathetic, strong communicator, good listener, people person/have social skills --->
 <!--- Others: Joyful, Good humored, leader, scholar, friendly--->
 
-#### What are my greatest weaknesses?
+<!--- #### What are my greatest weaknesses?
 * Reserved
-
 From experience I notice it takes time for me to get accustomed to new environments. I can come off as shy in the beginning, because I prefer develop an understanding of products and subject matter before I voice my opinions. 
 * Inexperience with large companies
-
 Having only worked in a sub-200 employee company, I do not have experience working on projects with large teams. Although by working in a smaller company, it has allowed me to step up for different responsibilities when additional help is needed and to work with people across multiple departments. 
+--->
 
 <!--- har har har
 * Mac and cheese (why can't I stop eating you)
