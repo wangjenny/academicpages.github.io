@@ -63,8 +63,11 @@ Outside of work, I am most proud of having attained my Scrum Master certificatio
 
 
 <!--- Another good blog post idea #### What is a time you've exercized leadership? --->
+<!---
 #### What do I like to do outside of work?
-I am a huge fan of reading. Can check out some of my technical (and non-technical) recommendations in the Books tab (Work In Progress)
+I am a huge fan of reading, 
+Can check out some of my technical (and non-technical) recommendations in the Books tab (Work In Progress) 
+--->
 
 <!---
 #### If you were an animal which one would you be?
@@ -72,7 +75,7 @@ A lot of people have commented that I remind them of a dog: strong, loyal, happy
 would love to insert image of jellyfish here 
 --->
 
-
+<!---
 Things I'd like to add to this site
 ---
 - [x] Go through all the pages and get rid of tabs that are not relevant
@@ -88,6 +91,7 @@ Things I'd like to add to this site
 - [ ] Find out how to integrate with a TODO list maker
 - [ ] Transform talkmap into a travel map
 
+--->
 <!--- Try to finish this check list by Friday! --->
 
 ---
