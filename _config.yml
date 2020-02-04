@@ -80,15 +80,15 @@ analytics:
 author:
   name             : "Connect"
   avatar           : "profile_face.jpg"
-  bio              : "QA Project Lead, expert in scrum methodology and QA practices"
-  location         : "Bedford NH"
-  employer         : "Transparent Language" # https://transparent.com
+  bio              : "Quality Assuarnce Engineer"
+  location         : "Cambridge, MA"
+  employer         : "Audible"
   email            : "jennywanginfo@gmail.com"
   uri              :
-  bitbucket        : 
+  bitbucket        :
   codepen          : # wangjenny
-  dribbble         : 
-  facebook         : "jennywang.jw"
+  dribbble         :
+  facebook         :
   foursquare       :
   github           : "wangjenny"
   google_plus      :
@@ -181,7 +181,7 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  _posts
   - scope:
       path: ""
       type: posts
