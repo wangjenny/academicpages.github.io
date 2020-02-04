@@ -1,10 +1,10 @@
 ---
 title: 'Iteration'
 date: 2020-02-01
-permalink: /posts/2020/02/iteration/
+permalink: /posts/hidden/2020/02/iteration/
 tags:
   - conference
-published: true
+published: false
 ---
 
 Iteration Conference
